@@ -13,6 +13,7 @@ sponsors:
   title: Trusted by the region's best
   description:
   companies:
+    - /images/sponsors/Altium.png
     - /images/sponsors/CU.png
     - /images/sponsors/bender.png
     - /images/sponsors/gb-auto.png
