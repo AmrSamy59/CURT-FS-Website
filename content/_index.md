@@ -13,25 +13,25 @@ sponsors:
   title: Trusted by the region's best
   description:
   companies:
+    - /images/sponsors/ABS.png
+    - /images/sponsors/Almah.PNG
+    - /images/sponsors/Kapci.PNG
+    - /images/sponsors/Makerhaus.png
+    - /images/sponsors/Promill.PNG
+    - /images/sponsors/RS_AE.png
     - /images/sponsors/Altium.png
     - /images/sponsors/CU.png
     - /images/sponsors/bender.png
     - /images/sponsors/gb-auto.png
-    - /images/sponsors/HRS.png
     - /images/sponsors/IPG.png
-    - /images/sponsors/IS.png
-    - /images/sponsors/NBE_logo.png
-    - /images/sponsors/Ricardo.svg
     - /images/sponsors/SimScale.png
     - /images/sponsors/Solidworks.png
     - /images/sponsors/aoi.png
     - /images/sponsors/r&d.png
-    - /images/sponsors/gig.png
     - /images/sponsors/teriak.png
     - /images/sponsors/rowad.webp
     - /images/sponsors/ecb.webp
     - /images/sponsors/autovrom.webp
-    - /images/sponsors/rs.webp
 
   media:
     - /images/sponsors/media/cbc.png
